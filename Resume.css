@@ -1,0 +1,67 @@
+
+
+
+body{
+	background-image: url("background.jpg");
+	width: 50%;
+	height: 70%;
+}
+.col-sm-6 h1{
+	color: lightblue;
+	text-align: left;
+	font-size: 80px;
+	
+}
+
+h1{
+	color: blue;
+	text-align: left;
+	font-weight: bold;
+	font-family: 'fantasy';
+}
+
+h3{
+	color: lightblue;
+	font-weight: bold;
+	font-family: 'Asul';
+}
+.col-sm-8 p,ul{
+	color: white;
+	font-family: 'Asul';
+
+}
+.col-sm-3 h3{
+	color: black;
+	font-family: 'Asul';
+}
+.col-sm-3 h3,p{
+	color: black;
+}
+.pro-table{
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
