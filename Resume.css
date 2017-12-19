@@ -3,46 +3,78 @@ body{
 	width: 50%;
 	height: 70%;
 }
-.col-sm-6 h1{
-	color: lightblue;
-	text-align: left;
-	font-size: 80px;
-	
-}
 
-h1{
-	color: blue;
+.name{
+	color: lightblue;
 	text-align: left;
 	font-weight: bold;
 	font-family: 'fantasy';
+	font-size: 6.5vw;
+
+}
+.image{
+	border-radius: 70%;
 }
 
-h3{
+.headings{
 	color: lightblue;
 	font-weight: bold;
 	font-family: 'Asul';
+	font-size: 2vw;
 }
-.col-sm-8 p,ul{
+.col-sm-8 ul{
 	color: white;
 	font-family: 'Asul';
-
 }
-.col-sm-3 h3{
+.left-para{
+	font-size: 1.2vw; 
+}
+.para{
+	color: white;
+	font-family: 'Asul';
+	font-size: 1.3vw;
+}
+.left-heading{
 	color: black;
 	font-family: 'Asul';
+	font-size: 2vw;
 }
-.col-sm-3 h3,p{
-	color: black;
-}
+
 .pro-table{
 	color: white;
 }
 
-.left-block{
+.top-left{
+	height: 50px;
+}
+.top-block{
+	background-color:lightblue;
+	height: 50px;
+}
+.top-right{
+	height: 50px;
+}
+.middle-left{
+	height: 130px;
+}
+.middle-block{
+	height: 130px;
+}
+.middle-right{
+	height: 130px;
+	left: 25%;
+}
+
+.bottom-left{
+	height: 1000px;
+}
+.bottom-block{
 	background-color:lightblue;
 	height: 1170px;
 }
-
+.bottom-right{
+	height: 1000px;
+}
 
 
 
